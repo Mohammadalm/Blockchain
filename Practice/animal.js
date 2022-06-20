@@ -15,6 +15,6 @@ class Animal {
     }
 
 
-}
+};
 
-export default myAnimal()
+export default Animal;
